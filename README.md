@@ -94,21 +94,24 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+This
+![Plot 1 (Results of plot1.R)](figure/plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![Plot 2 (Results of plot2.R)](figure/plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![Plot 3 (Results of plot3.R)](figure/plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![Plot 4 (Results of plot4.R)](figure/plot4.png) 
 
+
+## Instructions for plotting
+Set your working directory to the folder containing the dataset text file and execute script plot1.R to plot4.R to generate the plots
